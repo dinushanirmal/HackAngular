@@ -1,7 +1,7 @@
-# Repo1
-test 1
-1.-> We loved with a love that was more than love
--> We loved with a love that was more than love
+# Angular App for vehicle location sharing
+this is a #hacktoberfest project
+1.-> start building app ui
+2.-> implement node.js backend
 
 > We loved with a love that was more than love
 
