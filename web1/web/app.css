@@ -1,0 +1,9 @@
+.Container {
+    margin: 0 auto;
+    padding: 0 16px;
+    max-width: 1100px;
+}
+
+.app{
+  background: #fff;
+}
