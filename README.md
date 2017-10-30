@@ -5,4 +5,7 @@ this is a #hacktoberfest project
 
 > We loved with a love that was more than love
 
+
+# Changelog
+> added app.js and app.css (2017/10/30)
 ____****
