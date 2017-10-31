@@ -7,3 +7,58 @@
 .app{
   background: #fff;
 }
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FF0000;
+	text-align: center;
+	vertical-align: middle;
+	text-decoration: blink;
+	font-weight: bold;
+}
+fieldset {
+	width: 690px;
+	margin-top: 10px;
+	border: 1px solid #EEE;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	padding-top: 10px;
+	margin-left: 40px;
+	margin-bottom: 10px;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	border-radius:6px;
+	color: #6C6C6C;
+}
+legend {
+	text-align: left;
+	vertical-align: middle;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #5685D6;
+	font-weight: bold;
+}
+#fi_changepassword  {
+	width: 500px;
+	margin-left: 40px;
+}
+
+#fi_findinfo {
+	width: 500px;
+}
+#fi_findinfo label {
+	width: 120px;
+}
+#fi_findinfo li {
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+#fi_lsmethod {
+	width: 500px;
+	height: 100px;
+	margin-top: 25px;
+	padding-top: 10px;
+}
