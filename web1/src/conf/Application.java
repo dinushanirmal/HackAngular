@@ -33,11 +33,13 @@ public class Application implements CommandLineRunner {
 		
 		Skill emberjs = new Skill("emberjs", "Emberjs framework");
 		Skill angularjs = new Skill("angularjs", "Angularjs framework");
+		Skill vuejs = new Skill("vuejs", "Vuejs framework");
 
 		skillRepository.save(javascript);
 		skillRepository.save(ruby);
 		skillRepository.save(emberjs);
 		skillRepository.save(angularjs);
+		skillRepository.save(vuejs);
 
 		
 		
