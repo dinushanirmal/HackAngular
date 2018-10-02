@@ -1,4 +1,4 @@
-# Angular App for vehicle location sharing
+# Angular App for Hacktoberfest
 this is a #hacktoberfest project
 1.-> start building app ui
 2.-> implement node.js backend
