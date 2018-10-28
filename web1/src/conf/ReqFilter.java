@@ -25,7 +25,7 @@ public class ReqFilter {
 	@ExceptionHandler({Exception.class})
 	public String handleErrors() 
 	{
-		System.out.println("error handling");
+		System.out.println("error handling test");
 		return "500";
 	}
 
