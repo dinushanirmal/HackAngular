@@ -18,6 +18,7 @@ public class ReqFilter {
 	
 	@GetMapping("/error")
 	public String error(@RequestHeader(value="User-Agent") String agent) {
+		System.out.println("error handling test  ");
 		int result=Integer.valueOf(10)/Integer.valueOf(0);
 		return agent;
 	}
@@ -25,7 +26,7 @@ public class ReqFilter {
 	@ExceptionHandler({Exception.class})
 	public String handleErrors() 
 	{
-		System.out.println("error handling test");
+		System.out.println("error handling test  ");
 		return "500";
 	}
 
