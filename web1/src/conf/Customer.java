@@ -26,7 +26,7 @@ public class Customer {
         this.email = email;
         this.date = date;
     }
-
+ 
     public Customer() {
     }
 
